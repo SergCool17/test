@@ -1,0 +1,8 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SergCool17/test.git",
+  "author": "Sergey kuleshov <sergey.kul.2017@mail.ru>",
+  "license": "MIT"
+}
